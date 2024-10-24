@@ -1,0 +1,23 @@
+{
+  "name": "custom-package-xjs",
+  "version": "0.0.1",
+  "description": "Provide commonly used js-package.",
+  "main": "index.js",
+  "scripts": {
+    "compile": "npx babel src --out-dir compiled",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xinyiZN/custom-package-js.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "xinyi <xinyizhou2000s@gmail.com> (http://github.com/xinyiZN)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xinyiZN/custom-package-js/issues"
+  },
+  "homepage": "https://github.com/xinyiZN/custom-package-js#readme"
+}
