@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/xinyiZN/custom-package-js/issues"
   },
-  "homepage": "https://github.com/xinyiZN/custom-package-js#readme"
+  "homepage": "https://github.com/xinyiZN/custom-package-js#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.25.9",
+    "@babel/core": "^7.25.9",
+    "@babel/preset-env": "^7.25.9"
+  }
 }
